@@ -22,14 +22,3 @@
 
 ![karma's github stats](https://github-readme-stats.vercel.app/api?username=alajmidev&show_icons=true&theme=gotham)
 
-
-**Reach me at**
-
-<p align="center">
-<a href="mailto:nirajssingh18@gmail.com@gmail.com"><img src="https://github.com/alajmidev/alajmidev/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
-<a href="https://twitter.com/alajmidev"><img src="https://github.com/alajmidev/alajmidev/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
-<a href="https://www.linkedin.com/in/alajmidev/"><img src="https://github.com/alajmidev/alajmidev/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-<a href="https://github.com/alajmidev"><img src="https://github.com/alajmidev/alajmidev/blob/master/assets/home.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
-<a href="https://discord.com/users/karma#8364"><img src="https://github.com/alajmidev/alajmidev/blob/master/assets/discord.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-<a href="https://ctftime.org/user/69613"><img src="https://github.com/alajmidev/alajmidev/blob/master/assets/ctftime.ico" width="30px" alt="ctftime"></a> &nbsp; &nbsp;
-</p>
